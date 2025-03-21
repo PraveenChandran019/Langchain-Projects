@@ -1,6 +1,6 @@
 # Langchain-Projects
 ## This repo contains 4 different projects
-### Basic Chatbot
+### Chatbot
 ### Rag Application
 ### LLM Deployed via FastAPI
 ### Simple Agent
